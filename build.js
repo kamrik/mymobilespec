@@ -55,5 +55,5 @@ prj.copyWww(wwwDir);
 prj.save();
 
 // Build / run
-prj.run();
+prj.build();
 
