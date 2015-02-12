@@ -1,0 +1,19 @@
+{
+  "name": "ApiMobilespec",
+  "version": "0.0.1",
+  "description": "Mobilespec built via new api.",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamrik/mymobilespec.git"
+  },
+  "keywords": [
+    "Cordova"
+  ],
+  "author": "Mark Koudritsky <kamrik@gmail.com>",
+  "license": "Apache version 2.0",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  }
+}
